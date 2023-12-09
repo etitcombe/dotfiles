@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Eric Titcombe
+	email = mail@erictitcombe.com
+[pull]
+	ff = only
